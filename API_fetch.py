@@ -6,7 +6,7 @@ from typing import List, Dict, Any, Optional, Union
 # -----------------------------------------------------------
 # 1. ADD YOUR KEEPA API KEY HERE
 # -----------------------------------------------------------
-KEEPA_API_KEY = "o4eilsi0lhfttrantu7cvpe9kfu2afhl46qc0n3b4r03tatabb09c4l89mjh748r"  # 🔑 Replace with your Keepa API key
+KEEPA_API_KEY = "API_Key"  # 🔑 Replace with your Keepa API key
 
 
 # -----------------------------------------------------------
